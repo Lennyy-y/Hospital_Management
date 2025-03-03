@@ -38,7 +38,7 @@ PostgreSQL (latest version)
 
 Clone the repository:
 
-git clone https://github.com/your-username/hospital-management-system.git
+git clone https://github.com/Lennyy-y/Hospital_Management.git
 cd hospital-management-system
 
 Configure the PostgreSQL database:
